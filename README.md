@@ -15,7 +15,7 @@ We do not yet provide a ready to use Docker image of the Data Hub, so for now yo
 
 No we can clone the Ghana Hub instance (this repository) into a new folder:
 
-- Clone the repository `$ git clone git@github.com:datasnack/dh-ghana.git`
+- Clone the repository `$ git clone git@github.com:SimSon2710/pro-dh-ghana.git`
 - Copy the `.env.example` to `.env`: `$ cp .env.example .env`
 - Open the `.env` file and make sure the following variables are set `SECRET_KEY`, `DATAHUB_NAME` (instructions are inside the `.env` file)
 - Run `$ docker compose up -d`

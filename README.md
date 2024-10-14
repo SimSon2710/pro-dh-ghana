@@ -1,4 +1,4 @@
-# Ghana Hub
+# Ghana Hub 
 
 This is a [Data Hub](https://github.com/datasnack/datahub) instance for Ghana. It demonstrates the features of the Data Hub framework.
 
